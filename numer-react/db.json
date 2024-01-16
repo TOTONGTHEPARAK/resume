@@ -1,0 +1,14 @@
+
+    {
+		"falseposition" : [
+            {
+                "id" : 1,
+                "XL" : 1,
+                "XR" : 2,
+                "Errorapox" : 0.001, 
+                "funct" : "x^4-13"
+            }
+    
+        ]
+    }
+        
